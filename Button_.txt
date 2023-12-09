@@ -1,0 +1,25 @@
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                    <div id="#navbarSupportedContent" class="collapse navbar-collapse">
+                      <ul id="nav-list" class = "nav navbar-nav navbar-right">
+                          <li>
+                              <a href="menu-categories.html">
+                                  <span class="glyphicon glyphicon-cutlery"></span>
+                                  <br class="d-none d-sm-block d-lg-block">Menu
+                              </a>
+                          </li>
+                          <li>
+                              <a href="about.html">
+                                  <span class="glyphicon glyphicon-info-sign"></span>
+                                  <br class="d-none d-sm-block d-lg-block">About
+                              </a>
+                          </li>
+                          <li>
+                              <a href="Awards.html">
+                                  <span class="glyphicon glyphicon-certificate"></span>
+                                  <br class="d-none d-sm-block d-lg-block">Awards
+                              </a>
+                          </li>
+                      </ul>
+                  </div>

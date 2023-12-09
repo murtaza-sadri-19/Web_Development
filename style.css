@@ -1,0 +1,53 @@
+body{
+    font-size: 16px;
+    background-color: #eaeac8;
+    color:#b88ffd;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav{
+    background-color: #b8d7a1 ;
+    border-radius: 0;
+    border: 0;
+    font-family: 'Lora', serif;
+    font-family: 'Oxygen', sans-serif;
+    border: 2.5px solid #ecf87f;
+}
+#college{
+    width: 60x;
+    height: 60px;
+}
+#logo-img{
+    background: url("images/Clg_logo.png") no-repeat ;
+    float: left;
+    width: 250px;
+    height: 250px;
+    margin: 10px 15px 10px 0px;
+}
+.navbar-brand a:hover , .navbar-brand a:link{
+    text-decoration:none;
+}
+.navbar-brand p{
+    color:#cc9900;
+    text-transform: uppercase ;
+    font-size: .7em;
+    margin-top: 15px;
+
+}
+.navbar-brand{
+    padding-top: 25px;
+}
+.navbar-brand h1{
+    font-family: 'lora',serif;
+    color: #557c3e;
+    font-size: 3em;
+    font-weight: bold;
+    text-shadow: 1.5px 1.5px 1.5px #222;
+    text-decoration: wavy;
+    margin: 0;
+    line-height: .75;
+    font-style: oblique;
+}
+.navbar-brand p span{
+    vertical-align: middle;
+}
